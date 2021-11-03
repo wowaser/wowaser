@@ -1,3 +1,1 @@
-This is wowaser's personal repository
 
-Currently working on some Qt/c++ projects...
